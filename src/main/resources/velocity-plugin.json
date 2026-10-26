@@ -1,0 +1,9 @@
+{
+  "id": "valhallishebrand",
+  "name": "ValhallisheBrand",
+  "version": "1.1.0",
+  "description": "Per-server F3 brand and restart notice for the Valhallishe network",
+  "authors": ["Valhallishe"],
+  "dependencies": [],
+  "main": "net.valhallishe.brand.ValhallisheBrand"
+}
